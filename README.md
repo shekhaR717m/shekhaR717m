@@ -73,16 +73,6 @@ Passionate about building scalable cloud infrastructure, automating deployments,
 
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=shekhaR717m&theme=tokyonight&margin-w=15&no-frame=true"/>
-
-</p>
-
----
-
 # 🚀 Featured Projects
 
 ## ☁️ Smart Auto-Healing Platform
