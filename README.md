@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi 👋 I'm Mayank Shekhar
 
-<!--
-**shekhaR717m/shekhaR717m** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 DevOps & Cloud Engineer
+☁️ AWS | Terraform | Docker | Kubernetes | GitHub Actions
 
-Here are some ideas to get you started:
+🎓 B.E. Computer Science Engineering (2026)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently learning
+- Kubernetes
+- ArgoCD
+- Consul
+- Monitoring
+
+📫 Reach me:
+Email: mayankshekhar170704@gmail.com
+LinkedIn: https://www.linkedin.com/in/mayankshekhar17
+Portfolio:<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/0ef00986-6e8b-4d45-8a0a-5a68be1146df" />
